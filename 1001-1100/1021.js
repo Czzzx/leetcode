@@ -29,5 +29,4 @@ var removeOuterParentheses = function(S) {
   }
   return ret.join('');
 };
-let S = "(()())(())(()(()))";
-console.log(removeOuterParentheses(S))
+

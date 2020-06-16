@@ -35,6 +35,3 @@ var pancakeSort = function(A) {
   }
   return ret;
 };
-
-let A = [1,2,3]
-console.log(pancakeSort(A))

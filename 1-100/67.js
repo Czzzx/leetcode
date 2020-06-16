@@ -40,5 +40,3 @@ var addBinary = function(a, b) {
   }
   return ret;
 };
-
-console.log(addBinary("1010", "1011"))

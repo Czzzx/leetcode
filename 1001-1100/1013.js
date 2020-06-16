@@ -23,5 +23,3 @@ var canThreePartsEqualSum = function(A) {
   }
   return false;
 };
-
-console.log(canThreePartsEqualSum([3,3,6,5,-2,2,5,1,-9,4]))

@@ -20,5 +20,3 @@ var largestNumber = function(nums) {
   }
   return nums.join('')
 };
-
-console.log(largestNumber([0,0]))

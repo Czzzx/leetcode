@@ -20,5 +20,3 @@ var allCellsDistOrder = function(R, C, r0, c0) {
   }
   return ret;
 };
-
-console.log(...allCellsDistOrder(1,2,0,0))

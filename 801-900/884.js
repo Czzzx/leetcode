@@ -21,7 +21,3 @@ var uncommonFromSentences = function(A, B) {
   }
   return ret;
 };
-
-let A = 'this apple is sweet sweet sweet';
-let B = 'this apple is sour';
-console.log(uncommonFromSentences(A, B))

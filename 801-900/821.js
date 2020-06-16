@@ -28,6 +28,3 @@ var shortestToChar = function(S, C) {
   }
   return ret;
 };
-
-let S = "aaba", C = 'b';
-console.log(...shortestToChar(S,C))

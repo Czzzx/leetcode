@@ -39,6 +39,3 @@ var calPoints = function(ops) {
   }
   return sum;
 };
-
-let ops = ["5","2","C","D","+"];
-console.log(calPoints(ops))

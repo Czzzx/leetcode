@@ -69,6 +69,3 @@ var romanToInt = function(s) {
   }
   return ret;
 };
-
-let s = 'MCMXCIV';
-console.log(romanToInt(s))

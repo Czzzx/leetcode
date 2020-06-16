@@ -20,6 +20,3 @@ var removeDuplicates = function(nums) {
   }
   return nums.length
 };
-
-let nums = [1,1,1,2,2,0,0,0,0,3,3];
-console.log(removeDuplicates(nums))

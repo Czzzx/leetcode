@@ -25,5 +25,3 @@ var getRow = function(rowIndex) {
     return pre;
   }
 };
-
-console.log(getRow(3))

@@ -21,5 +21,3 @@ var lastStoneWeight = function(stones) {
   }
   return stones.length==1? stones[0]: 0;
 };
-
-console.log(lastStoneWeight([6,8,4,9,2,3,3,7]))

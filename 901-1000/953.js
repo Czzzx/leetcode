@@ -31,5 +31,3 @@ var isAlienSorted = function(words, order) {
   }
   return flag;
 };
-
-console.log(isAlienSorted(["hello","leetcode"],"hlabcdefgijkmnopqrstuvwxyz"))

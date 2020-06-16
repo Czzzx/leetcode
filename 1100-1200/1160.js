@@ -27,5 +27,3 @@ var countCharacters = function(words, chars) {
   }
   return ret;
 };
-
-console.log(countCharacters(["cat","bt","hat","tree"], "atach"));

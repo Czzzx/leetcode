@@ -35,6 +35,3 @@ var sumEvenAfterQueries = function(A, queries) {
   return answer
 };
 
-var A = [1,2,3,4];
-var queries = [[1,0],[-3,1],[-4,0],[2,3]];
-console.log(sumEvenAfterQueries(A,queries))

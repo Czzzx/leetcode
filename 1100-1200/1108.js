@@ -13,5 +13,4 @@ var defangIPaddr = function(address) {
   }
   return ret
 };
-let str = '1.1.1.1';
-console.log(defangIPaddr(str))
+

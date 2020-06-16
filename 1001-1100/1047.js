@@ -17,6 +17,3 @@ var removeDuplicates = function(S) {
   remove(arr);
   return arr.join('');
 };
-
-let S = 'baabac';
-console.log(removeDuplicates(S))

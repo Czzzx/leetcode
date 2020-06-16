@@ -15,5 +15,3 @@ var complexNumberMultiply = function(a, b) {
   let im = (arrA[0]*arrB[1]+arrA[1]*arrB[0])+'i';
   return re + im;
 };
-
-console.log(complexNumberMultiply('1+1i','1+1i'))

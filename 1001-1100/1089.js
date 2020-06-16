@@ -15,6 +15,3 @@ var duplicateZeros = function(arr) {
     }
     return arr;
 };
-
-let arr = [1,0,2,2,0];
-console.log(...duplicateZeros(arr))

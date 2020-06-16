@@ -25,5 +25,3 @@ var findKthLargest = function(nums, k) {
     return findKthLargest(left, k-right.length-1);
   }
 };
-
-console.log(findKthLargest([3,2,3,1,2,4,5,5,6],4))

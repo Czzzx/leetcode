@@ -44,6 +44,3 @@ var numSmallerByFrequency = function(queries, words) {
   }
   return ret;
 };
-
-let queries = ["bbb","cc"], words = ["a","aa","aaa","aaaa"];
-console.log(numSmallerByFrequency(queries,words))

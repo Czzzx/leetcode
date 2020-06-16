@@ -52,6 +52,3 @@ var addStrings = function(num1, num2) {
   return sum;
 };
 
-let a = '98';
-let b = '9';
-console.log(addStrings(a,b))

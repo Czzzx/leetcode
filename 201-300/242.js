@@ -12,5 +12,3 @@ var isAnagram = function(s, t) {
   arrT.sort();
   return arrS.join('') === arrT.join('');
 };
-
-console.log(isAnagram("anagram","nagaram"))
